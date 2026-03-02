@@ -4,9 +4,15 @@
 	"description": "SaaS MVP",
 	"main": "server.js",
 	"scripts": {
-	"start": "node server.js"
+		"start": "node server.js"
 	},
-	"dependecies":{
+	"dependecies": {
 		"express": "^4.19.2"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^5.2.1"
 	}
 }
